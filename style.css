@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+#searchForm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.main-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img1{
+    width: 200px;
+    height: 250px
+}
+
+.img2{
+    width:250px;
+    height: 250px;
+}
